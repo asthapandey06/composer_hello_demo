@@ -1,0 +1,13 @@
+{
+    "name": "cedcoss/composer_hello_demo",
+    "description": "hello composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Astha",
+            "email": "asthapandey2022jan@cedcoss.com"
+        }
+    ],
+    "require": {}
+}
